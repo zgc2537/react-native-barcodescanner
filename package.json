@@ -1,0 +1,86 @@
+{
+  "_args": [
+    [
+      "react-native-barcodescanner",
+      "D:\\"
+    ]
+  ],
+  "_from": "react-native-barcodescanner@latest",
+  "_id": "react-native-barcodescanner@3.0.0",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/react-native-barcodescanner",
+  "_nodeVersion": "6.2.0",
+  "_npmOperationalInternal": {
+    "host": "packages-12-west.internal.npmjs.com",
+    "tmp": "tmp/react-native-barcodescanner-3.0.0.tgz_1464936808925_0.09207667456939816"
+  },
+  "_npmUser": {
+    "email": "andreas.keller@gmx.ch",
+    "name": "andreaskeller"
+  },
+  "_npmVersion": "3.8.9",
+  "_phantomChildren": {},
+  "_requested": {
+    "name": "react-native-barcodescanner",
+    "raw": "react-native-barcodescanner",
+    "rawSpec": "",
+    "scope": null,
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-barcodescanner/-/react-native-barcodescanner-3.0.0.tgz",
+  "_shasum": "552ed9be87d7168abb28574901d1b8c756697b87",
+  "_shrinkwrap": null,
+  "_spec": "react-native-barcodescanner",
+  "_where": "D:\\",
+  "author": {
+    "email": "andreas.keller@gmx.ch",
+    "name": "Andreas Keller",
+    "url": "http://www.andreaskeller.name"
+  },
+  "bugs": {
+    "url": "https://github.com/ideacreation/react-native-barcodescanner/issues"
+  },
+  "dependencies": {},
+  "description": "A barcode scanner component for react native",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "552ed9be87d7168abb28574901d1b8c756697b87",
+    "tarball": "https://registry.npmjs.org/react-native-barcodescanner/-/react-native-barcodescanner-3.0.0.tgz"
+  },
+  "gitHead": "03824a8dca2668bfff48cb76c95dad75ef68c71b",
+  "homepage": "https://github.com/ideacreation/react-native-barcodescanner#readme",
+  "keywords": [
+    "android",
+    "barcode",
+    "barcodereader",
+    "barcodescanner",
+    "qrcode",
+    "react",
+    "react-component",
+    "react-native",
+    "scanner"
+  ],
+  "license": "MIT",
+  "main": "BarcodeScanner.js",
+  "maintainers": [
+    {
+      "name": "andreaskeller",
+      "email": "andreas.keller@gmx.ch"
+    }
+  ],
+  "name": "react-native-barcodescanner",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ideacreation/react-native-barcodescanner.git"
+  },
+  "scripts": {},
+  "version": "3.0.0"
+}
